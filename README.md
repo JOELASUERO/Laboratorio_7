@@ -19,6 +19,9 @@ OBJETIVOS ESPECIFICOS
 
 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/116674536/218152798-5626010e-2d24-4dca-8c08-bf44b0c62161.png)
+
+
 3. Materiales
 
 • Laboratorio virtual 
