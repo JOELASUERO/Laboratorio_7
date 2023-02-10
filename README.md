@@ -21,6 +21,9 @@ OBJETIVOS ESPECIFICOS
 
 ![image](https://user-images.githubusercontent.com/116674536/218152798-5626010e-2d24-4dca-8c08-bf44b0c62161.png)
 
+![image](https://user-images.githubusercontent.com/116674536/218154790-2d183afa-fa9d-4724-95ef-d97b2665c4db.png)
+
+
 
 3. Materiales
 
